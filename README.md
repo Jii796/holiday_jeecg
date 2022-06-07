@@ -1,8 +1,10 @@
 # holiday_jeecg
 ## 下载IDEA，并且安装Lombok,Sonarlint,阿里规约等插件
 ## 安装git，并在github上创建个人工程，完成一次pull request记录
--  在本地文件夹下右键打开git bash\n
+-  在本地文件夹下右键打开git bash
+
 然后执行以下命令
+
 `mkdir gitTest`
 `cd gitTest`
 `git init`
