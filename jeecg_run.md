@@ -31,7 +31,7 @@
 
 在IDEA中运行JeecgSystemApplication.java
 ![IDEA运行界面](https://images.gitee.com/uploads/images/2022/0607/164149_238a0b7b_5361430.png "jeecg-boot-parent – JeecgSystemApplication.java [jeecg-boot-module-system] Administrator 2022_6_7 16_27_22.png")
-![IDEA运行界面](https://images.gitee.com/uploads/images/2022/0607/164149_238a0b7b_5361430.png "jeecg-boot-parent – JeecgSystemApplication.java [jeecg-boot-module-system] Administrator 2022_6_7 16_27_22.png")
+![IDEA运行界面](https://raw.githubusercontent.com/Jii796/holiday_jeecg/main/images/IDEA%E8%BF%90%E8%A1%8C%E7%95%8C%E9%9D%A2.png)
 -  之后打开网址：
 
 http://192.168.248.1:3100/或http://192.168.198.1:3100/或http://10.21.202.126:3100/来打开前端。
