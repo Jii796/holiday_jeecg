@@ -42,3 +42,6 @@ http://192.168.248.1:3100/或http://192.168.198.1:3100/或http://10.21.202.126:3
 输入验证码之后，点击登录，进入该系统。
 ![成功进入系统](https://images.gitee.com/uploads/images/2022/0607/164438_b0fbf3c2_5361430.png "登录 - JeecgBoot 企业级低代码平台 - Google Chrome 2022_6_7 16_32_08.png")
 ![成功进入系统](https://images.gitee.com/uploads/images/2022/0607/164450_80ab8e50_5361430.png "登录 - JeecgBoot 企业级低代码平台 - Google Chrome 2022_6_7 16_32_30.png")
+-  运行成功后根据开发文档提示，增加一个helloworld页面，展示如下：
+![helloworld](https://user-images.githubusercontent.com/83084341/172530370-54b5904b-2b8e-4e63-a1df-1a79bb795a7b.png)
+
