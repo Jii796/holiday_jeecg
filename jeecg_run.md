@@ -27,7 +27,7 @@
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2022/0607/164054_afb8413e_5361430.png "npm run dev 2022_6_7 16_27_43.png")
 ![npm成功运行界面](https://images.gitee.com/uploads/images/2022/0607/164105_2f7884c7_5361430.png "npm run dev 2022_6_7 16_28_43.png")
--  打开前端
+-  打开后端
 
 在IDEA中运行JeecgSystemApplication.java
 ![IDEA运行界面](https://images.gitee.com/uploads/images/2022/0607/164149_238a0b7b_5361430.png "jeecg-boot-parent – JeecgSystemApplication.java [jeecg-boot-module-system] Administrator 2022_6_7 16_27_22.png")
